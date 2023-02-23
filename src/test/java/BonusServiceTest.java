@@ -68,3 +68,17 @@ public class BonusServiceTest {
         Assertions.assertEquals(expected, actual);
     }
 }
+
+//Running BonusServiceTest
+//[INFO] Tests run: 4, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.131 s - in BonusServiceTest
+//[INFO]
+//[INFO] Results:
+//[INFO]
+//[INFO] Tests run: 4, Failures: 0, Errors: 0, Skipped: 0
+//[INFO]
+//[INFO] ------------------------------------------------------------------------
+//[INFO] BUILD SUCCESS
+//[INFO] ------------------------------------------------------------------------
+//[INFO] Total time:  33.607 s
+//[INFO] Finished at: 2023-02-24T00:26:22+03:00
+//[INFO] ------------------------------------------------------------------------
